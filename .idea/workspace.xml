@@ -17,38 +17,38 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            <state relative-caret-position="206">
+              <caret line="73" column="59" lean-forward="true" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debtor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/domains/debtor.js">
+      <file leaf-file-name="totalCountable_repository.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/repositories/totalCountable_repository.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debtor_controller.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/controllers/debtor_controller.js">
+      <file leaf-file-name="totalcountable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/domains/totalcountable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debtor_repository.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/repositories/debtor_repository.js">
+      <file leaf-file-name="totalCountable_controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/controllers/totalCountable_controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="144">
+              <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -109,10 +109,13 @@
         <option value="$PROJECT_DIR$/lib/controllers/diary_controller.js" />
         <option value="$PROJECT_DIR$/lib/repositories/diary_repository.js" />
         <option value="$PROJECT_DIR$/lib/domains/diary.js" />
-        <option value="$PROJECT_DIR$/lib/server.js" />
         <option value="$PROJECT_DIR$/lib/domains/debtor.js" />
         <option value="$PROJECT_DIR$/lib/repositories/debtor_repository.js" />
         <option value="$PROJECT_DIR$/lib/controllers/debtor_controller.js" />
+        <option value="$PROJECT_DIR$/lib/domains/totalcountable.js" />
+        <option value="$PROJECT_DIR$/lib/controllers/totalCountable_controller.js" />
+        <option value="$PROJECT_DIR$/lib/server.js" />
+        <option value="$PROJECT_DIR$/lib/repositories/totalCountable_repository.js" />
       </list>
     </option>
   </component>
@@ -206,15 +209,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Daniel\WebstormProjects\nodejs\apirest\lib" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\-\Documents\InfinityWebDev\Cocoliche\NodeJs\apirest\lib\repositories" />
       <recent name="C:\Users\-\Documents\InfinityWebDev\Cocoliche\NodeJs\apirest\lib\controllers" />
+      <recent name="C:\Users\-\Documents\InfinityWebDev\Cocoliche\NodeJs\apirest\lib\domains" />
       <recent name="C:\Users\Paspa\Documents\InfinityWebDev\CocoLiche\NodeJs\apirest\lib\domains" />
       <recent name="C:\Users\Daniel\WebstormProjects\nodejs\apirest\lib\repositories" />
-      <recent name="C:\Users\Daniel\WebstormProjects\nodejs\apirest\lib\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\WebstormProjects\nodejs\apirest\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,12 +372,12 @@
       <workItem from="1508939117050" duration="29000" />
       <workItem from="1508939196196" duration="3612000" />
       <workItem from="1508962626000" duration="1154000" />
-      <workItem from="1508964260142" duration="150000" />
+      <workItem from="1508964260142" duration="2917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244723000" />
+    <option name="totallyTimeSpent" value="247490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -411,21 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/scheme.sql" />
     <entry file="file://$PROJECT_DIR$/lib/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -550,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/controllers/children_controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="68" column="417" lean-forward="true" selection-start-line="68" selection-start-column="411" selection-end-line="68" selection-end-column="421" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/repositories/children_repository.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -568,13 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2373">
           <caret line="113" column="23" lean-forward="false" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/domains/cashier.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -631,13 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="33" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="39" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/domains/debtor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -671,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/repositories/debtor_repository.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -691,6 +650,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/domains/cashier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/controllers/children_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/domains/debtor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="73" column="59" lean-forward="true" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/domains/totalcountable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/controllers/totalCountable_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/repositories/totalCountable_repository.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding />
         </state>
       </provider>
